@@ -1,0 +1,90 @@
+.container{
+    margin-top: 10px;
+}
+
+#hero {
+    background-size: cover;
+    background-position: center;
+    color: #333333;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+}
+
+.hero-content p {
+    font-size: 24px;
+}
+
+.hero-content .cta {
+    background-color: #008080;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.carousel-item  p{
+    color: rgb(46, 44, 44);
+    text-shadow: 5px -5px 10px rgb(15, 7, 7);
+}
+.carousel-item h2{
+    color: rgb(46, 44, 44);
+    text-shadow: 5px -5px 10px rgb(15, 7, 7);
+}
+.carousel-item{
+    background: transparent;
+}
+
+.card-body{
+    position: relative;
+    padding-bottom: 40px;    
+}
+
+.card-body .btn{
+    position: absolute;
+    bottom: 10px;
+
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+}
+
+.book-now {
+    background-color: #FFC0CB;
+    border: none;
+    color: #2F4F4F;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.service-category{
+    margin: 20px 0;
+}
+
+.service-category h3 {
+    margin-left: 200px;
+}
+
+.service-category p {
+    margin-left: 200px;
+}
+
+.view-all {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    width: 180px;
+    background-color: #008080;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

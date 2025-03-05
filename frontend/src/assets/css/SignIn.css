@@ -1,0 +1,168 @@
+body {
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+.signIn {
+  width: 450px;
+  height: 65vh;
+  padding: 20px;
+  background: whitesmoke;
+  opacity: 1;
+  margin: 35px auto;
+  line-height: 2.5;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.form-group {
+  display: flex;
+  margin-bottom: 20px;
+}
+.form-group label {
+  margin-left: 15px;
+}
+.form-group input {
+  width: calc(100% - 50px);
+  padding: 5px;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 1rem;
+  color: #333;
+  outline: none;
+  background: #f9f9f9;
+  transition: all 0.3s ease;
+}
+.form-group input:focus {
+  border-color: #007bff;
+}
+
+.form-button {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form-group i {
+  font-size: 1.5rem;
+  margin-top: 15px;
+}
+
+.SignIn {
+  text-align: center;
+}
+.SignIn a {
+  text-decoration: none;
+}
+a:hover {
+  color: #7b1fa2;
+}
+
+
+
+
+
+
+
+
+
+
+/* body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-size: cover; 
+  
+  margin:0;
+  padding: 0;
+}
+.SignIN-box{
+ width: 450px;
+ padding: 20px;
+ background: rgb(220, 217, 217);
+ margin: 70px auto;
+ line-height: 2.5;
+ border-radius: 20px;
+ box-shadow: 5px 5px 5px;
+}
+
+h1{
+  font-family:"Sedan SC", serif;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.input-box{
+  margin-bottom: 10px;
+  /* margin-left: 20px;
+  border-bottom-width: 3px;
+  
+}
+.input-box label{
+  display: block;
+  margin-left: 20px;
+}
+
+.input-box input{
+  margin-left: 10px;
+  border-radius: 10px;
+  width: calc(100% - 50px);
+  height: 30px;
+  padding: 7px;
+}
+
+button[type="submit"]{
+  width: 80%;
+  margin-left: 40px;
+  text-align: center; 
+  padding: 2px;
+  background: grey;
+  color: aliceblue;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+button:hover{
+  color: black;
+  background-color: rgb(201, 199, 196);
+  border-width: 1px;
+  border-style: double;
+  
+}
+label{
+  text-align:justify;
+  margin-left: 24%;
+  display: block ;
+}
+
+.SignUp{
+ text-align: center;
+}
+.SignUp a{
+ text-decoration: none;
+}
+a:hover{
+ color: #7B1FA2;
+} 
+.password-container {
+  position: relative;
+}
+.password-container button {
+  position: relative;
+  top: 80%;
+  right: -87%;
+  transform: translateY(-40px);
+  border: none;
+  background: transparent;
+}
+.error{
+  color: red;
+  font-size: small;
+}
+.button{
+  color: red;
+  
+} */
+

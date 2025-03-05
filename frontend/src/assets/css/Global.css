@@ -1,0 +1,45 @@
+@import './Footer.css';
+@import './Home.css';
+@import './Navigation.css';
+@import './Contact.css';
+@import './AboutUs.css';
+@import './Contact.css';
+@import './SignIn.css';
+@import './SignUp.css';
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    justify-content: center;
+    color: #B76E79;
+}
+
+/* *{
+    background-color: #F8F8F8;
+} */
+
+/* 
+cream/ivory (#F5F5DC)
+harcoal gray (#333333) for the main text and headings.
+rose gold (#B76E79) or dusty pink (#E6B8C6), adding a touch of luxury and femininity to the design. */
+
+.custom-carousel-image {
+    width: 90%; /* Adjust the width */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .custom-carousel-caption {
+    color: white;
+  }
+  
+  .view-cart-btn{
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .view-cart-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }

@@ -1,0 +1,20 @@
+*{
+    text-decoration: none;
+}
+
+.footer{
+    padding: 10px;
+    font-size: medium;
+    background-color: #2E2E2E;
+    color: #E6B8C6;
+}
+.container-box{
+    margin-left: 100px;
+}
+.heading{
+    margin-bottom: 20px;
+}
+
+li{
+    text-decoration: none;
+}

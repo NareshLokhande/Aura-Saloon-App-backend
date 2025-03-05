@@ -1,0 +1,17 @@
+.testimonial-container {
+    display: flex;
+    justify-content: center; /* Center the testimonial cards horizontally */
+    margin-bottom: 20px; /* Add some margin at the bottom */
+  }
+  
+  .testimonial-card {
+    width: 80%; /* Set a fixed width for the card */
+    margin: 0 auto; /* Center the card horizontally */
+  }
+
+  .testimonial-card img{
+    margin-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
